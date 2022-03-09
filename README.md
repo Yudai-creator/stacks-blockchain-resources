@@ -9,4 +9,4 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 
 | Name          | Link|
 | ------------- | ------------- |
-| CSS           |https://twitter.com/creator_yudai/status/1480533473895104519?s=21|
+| Stacks company blog           |https://blog.stacks.co/|
