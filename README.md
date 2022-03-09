@@ -25,4 +25,13 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 
 
 
+## Not check yet
+
+
+| Name          | Link|
+| ------------- | ------------- |
+| Full Stack web3 dev with Stacks          |https://dev.to/krgrs/built-on-bitcoin-an-introduction-to-full-stack-web3-development-with-stacks-me9|
+| Awesome Stacks Chain repo           |https://github.com/friedger/awesome-stacks-chain|
+| CityCoins docs          |https://docs.citycoins.co/developer-resources/general|
+
 
