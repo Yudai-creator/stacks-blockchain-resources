@@ -13,11 +13,11 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Learn the capabilities of Stacks           |https://www.stacks.co/learn/features|
 | What kind of blockchain is Stacks?          |https://stacks.org/stacks-blockchain|
 | Bitcoin LN           |https://academy.binance.com/en/articles/what-is-lightning-network|
-| Resources provided by Stacks org          |https://www.stacks.co/learn/learning-resources|
-| Resources provided by Stacks org          |https://www.stacks.co/learn/learning-resources|
-| Resources provided by Stacks org          |https://www.stacks.co/learn/learning-resources|
-| Resources provided by Stacks org          |https://www.stacks.co/learn/learning-resources|
-| Resources provided by Stacks org          |https://www.stacks.co/learn/learning-resources|
-| Resources provided by Stacks org          |https://www.stacks.co/learn/learning-resources|
-| Resources provided by Stacks org          |https://www.stacks.co/learn/learning-resources|
+| Stacks docs          |https://docs.stacks.co/|
+| Clarity, smart contract language          |https://docs.stacks.co/write-smart-contracts/overview|
+| Stack wallets          |https://www.stacks.co/explore/find-a-wallet|
+| Hiro wallet docs           |https://docs.hiro.so/|
+| Get started with Clarity          |https://book.clarity-lang.org/ch01-00-getting-started.html|
+| Clarity learning resources          |https://clarity-lang.org/d|
+| Clarity tools         |https://clarity.tools/|
 
