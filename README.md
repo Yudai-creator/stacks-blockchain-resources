@@ -19,5 +19,10 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Hiro wallet docs           |https://docs.hiro.so/|
 | Get started with Clarity          |https://book.clarity-lang.org/ch01-00-getting-started.html|
 | Clarity learning resources          |https://clarity-lang.org/d|
+| Clarity hello world tutorial         |https://github.com/clarity-lang/overview/blob/master/tutorial-hello-world.md|
+| Clarity counter tutorial         |https://github.com/clarity-lang/overview/blob/master/tutorial-counter.md|
 | Clarity tools         |https://clarity.tools/|
+
+
+
 
