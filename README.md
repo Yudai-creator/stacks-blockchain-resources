@@ -33,5 +33,11 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Full Stack web3 dev with Stacks          |https://dev.to/krgrs/built-on-bitcoin-an-introduction-to-full-stack-web3-development-with-stacks-me9|
 | Awesome Stacks Chain repo           |https://github.com/friedger/awesome-stacks-chain|
 | CityCoins docs          |https://docs.citycoins.co/developer-resources/general|
+| Understanding Stacks Post Conditions         |https://dev.to/krgrs/understanding-stacks-post-conditions-e65|
+| Stacks GAIA         |https://docs.stacks.co/build-apps/references/gaia|
+| Stakcs.js         |https://github.com/hirosystems/stacks.js|
+| Micro-Stacks         |https://docs.micro-stacks.dev/|
+| Stakcs.js         |https://github.com/hirosystems/stacks.js|
+| Stakcs.js         |https://github.com/hirosystems/stacks.js|
 
 
