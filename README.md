@@ -37,7 +37,7 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Stacks GAIA         |https://docs.stacks.co/build-apps/references/gaia|
 | Stakcs.js         |https://github.com/hirosystems/stacks.js|
 | Micro-Stacks         |https://docs.micro-stacks.dev/|
-| Stakcs.js         |https://github.com/hirosystems/stacks.js|
-| Stakcs.js         |https://github.com/hirosystems/stacks.js|
+| Clarinet testing and integrating Clarity Smart contracts         |https://github.com/hirosystems/clarinet|
+| PoX and Stacks' Bitcoin Connection         |https://www.hiro.so/blog/securing-web3-apps-through-bitcoin-an-overview-of-stacks-consensus-mechanism|
 
 
