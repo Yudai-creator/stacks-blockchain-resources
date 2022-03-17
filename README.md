@@ -41,6 +41,10 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Clarinet testing and integrating Clarity Smart contracts         |https://github.com/hirosystems/clarinet|
 | PoX and Stacks' Bitcoin Connection         |https://www.hiro.so/blog/securing-web3-apps-through-bitcoin-an-overview-of-stacks-consensus-mechanism|
 | Clarity principals   |https://docs.stacks.co/write-smart-contracts/principals|
+| Clarity Values   |https://docs.stacks.co/write-smart-contracts/values|
+| Clarity Functions |https://docs.stacks.co/references/language-functions#get-block-info|
+| Stacks Apps  |https://www.stacks.co/explore/discover-apps|
+
 
 
 
