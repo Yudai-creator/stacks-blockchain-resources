@@ -23,6 +23,7 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Clarity counter tutorial         |https://github.com/clarity-lang/overview/blob/master/tutorial-counter.md|
 | Clarity tools         |https://clarity.tools/|
 | Full Stack web3 dev with Stacks          |https://dev.to/krgrs/built-on-bitcoin-an-introduction-to-full-stack-web3-development-with-stacks-me9|
+| Proof of Transfer explained        |https://docs.stacks.co/understand-stacks/proof-of-transfer|
 
 
 
@@ -39,6 +40,7 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Micro-Stacks         |https://docs.micro-stacks.dev/|
 | Clarinet testing and integrating Clarity Smart contracts         |https://github.com/hirosystems/clarinet|
 | PoX and Stacks' Bitcoin Connection         |https://www.hiro.so/blog/securing-web3-apps-through-bitcoin-an-overview-of-stacks-consensus-mechanism|
-| Proof of Transfer explained        |https://docs.stacks.co/understand-stacks/proof-of-transfer|
+| Clarity principals   |https://docs.stacks.co/write-smart-contracts/principals|
+
 
 
