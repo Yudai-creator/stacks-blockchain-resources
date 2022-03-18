@@ -56,6 +56,7 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Clarity Functions |https://docs.stacks.co/references/language-functions#get-block-info|
 | Stacks Apps  |https://www.stacks.co/explore/discover-apps|
 | SIP - 001 consensus |https://github.com/stacksgov/sips/blob/main/sips/sip-001/sip-001-burn-election.md|
+|
 
 
 
