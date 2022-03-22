@@ -56,7 +56,17 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Clarity Functions |https://docs.stacks.co/references/language-functions#get-block-info|
 | Stacks Apps  |https://www.stacks.co/explore/discover-apps|
 | SIP - 001 consensus |https://github.com/stacksgov/sips/blob/main/sips/sip-001/sip-001-burn-election.md|
-|
+
+
+## Youtube videos
+
+| Name          | Link|
+| ------------- | ------------- |
+| Stacks YT channel           |https://www.youtube.com/c/Blockstack|
+| Deploying NFTs on Bitcoin w/ Clarity         |https://www.youtube.com/watch?v=XlI-VLa_J3I&list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=1&t=1955s|
+| NFTs on Stacks - Starter Info          |https://forum.stacks.org/t/nfts-on-stacks-starter-info/11872|
+| NFTs tutorial and docs by Hiro          |https://www.hiro.so/blog/nfts-on-stacks-new-tutorial-and-documentation|
+| Stacks (STX) NFTs: Exploring NFTs Secured By Bitcoin          |https://coincentral.com/stacks-stx-nft-guide/|
 
 
 
