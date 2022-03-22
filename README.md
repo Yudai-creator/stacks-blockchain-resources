@@ -56,6 +56,17 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Clarity Functions |https://docs.stacks.co/references/language-functions#get-block-info|
 | Stacks Apps  |https://www.stacks.co/explore/discover-apps|
 | SIP - 001 consensus |https://github.com/stacksgov/sips/blob/main/sips/sip-001/sip-001-burn-election.md|
+| Stacks Improvement Proposals (SIPs) |https://github.com/stacksgov/sips|
+
+
+
+## Stacking process
+
+| Name          | Link|
+| ------------- | ------------- |
+| Stacking: A new way to earn Bitcoin           |https://www.stacks.co/learn/stacking|
+| Get STX/Current STX maket value          |https://www.stacks.co/explore/get-stx|
+| How Stacking helps the network         |https://gist.github.com/jcnelson/802d25994721d88ab7c7991bde88b0a9#file-how-stacking-helps-the-network-md|
 
 
 ## Youtube videos
