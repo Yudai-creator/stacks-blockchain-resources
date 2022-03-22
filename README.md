@@ -59,6 +59,7 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Stacks Improvement Proposals (SIPs) |https://github.com/stacksgov/sips|
 | Clarity testing |https://blog.nikosbaxevanis.com/2022/03/05/clarity-property-based-testing-primer/|
 | Contract Documentation Standard |https://github.com/stacksgov/sips/pull/32|
+| Clarity uses Polish notation |https://en.wikipedia.org/wiki/Polish_notation|
 
 
 
