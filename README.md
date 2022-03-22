@@ -63,9 +63,13 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Name          | Link|
 | ------------- | ------------- |
 | Stacks YT channel           |https://www.youtube.com/c/Blockstack|
+| EASY Minting dApp with WHITELISTING/ Launch an Entire NFT Collection          |https://www.youtube.com/watch?v=cLB7u0KQFIs&
 | Deploying NFTs on Bitcoin w/ Clarity         |https://www.youtube.com/watch?v=XlI-VLa_J3I&list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=1&t=1955s|
 | Find your Clarity: Writing smart contracts on Blockstack          |https://www.youtube.com/watch?v=6bwcC2_B4so&list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=3|
-| EASY Minting dApp with WHITELISTING/ Launch an Entire NFT Collection          |https://www.youtube.com/watch?v=cLB7u0KQFIs&list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=5|
+list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=5|
+| Developing Clarity Smart Contracts with Clarinet          |https://www.youtube.com/watch?v=zERDftjl6k8&list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=10|
+| Stacks (STX) NFTs: Exploring NFTs Secured By Bitcoin          |https://coincentral.com/stacks-stx-nft-guide/|
+| Stacks (STX) NFTs: Exploring NFTs Secured By Bitcoin          |https://coincentral.com/stacks-stx-nft-guide/|
 | Stacks (STX) NFTs: Exploring NFTs Secured By Bitcoin          |https://coincentral.com/stacks-stx-nft-guide/|
 
 
