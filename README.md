@@ -57,6 +57,7 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Stacks Apps  |https://www.stacks.co/explore/discover-apps|
 | SIP - 001 consensus |https://github.com/stacksgov/sips/blob/main/sips/sip-001/sip-001-burn-election.md|
 | Stacks Improvement Proposals (SIPs) |https://github.com/stacksgov/sips|
+| Clarity testing |https://blog.nikosbaxevanis.com/2022/03/05/clarity-property-based-testing-primer/|
 
 
 
