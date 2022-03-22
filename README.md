@@ -67,6 +67,7 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Stacking: A new way to earn Bitcoin           |https://www.stacks.co/learn/stacking|
 | Get STX/Current STX maket value          |https://www.stacks.co/explore/get-stx|
 | How Stacking helps the network         |https://gist.github.com/jcnelson/802d25994721d88ab7c7991bde88b0a9#file-how-stacking-helps-the-network-md|
+| Stacking Club         |https://stacking.club/learn|
 
 
 ## Youtube videos
