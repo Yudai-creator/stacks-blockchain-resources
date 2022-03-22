@@ -68,9 +68,9 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Find your Clarity: Writing smart contracts on Blockstack          |https://www.youtube.com/watch?v=6bwcC2_B4so&list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=3|
 list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=5|
 | Developing Clarity Smart Contracts with Clarinet          |https://www.youtube.com/watch?v=zERDftjl6k8&list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=10|
-| Stacks (STX) NFTs: Exploring NFTs Secured By Bitcoin          |https://coincentral.com/stacks-stx-nft-guide/|
-| Stacks (STX) NFTs: Exploring NFTs Secured By Bitcoin          |https://coincentral.com/stacks-stx-nft-guide/|
-| Stacks (STX) NFTs: Exploring NFTs Secured By Bitcoin          |https://coincentral.com/stacks-stx-nft-guide/|
+| Clarity Smart Contracts for Stacks          |https://www.youtube.com/watch?v=OAVwd6SNJVU&list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=12|
+| PoX: Proof of Transfer Mining with Bitcoin          |https://www.youtube.com/watch?v=NY_eUrIcWOY&list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=16|
+| BlockStack - Proof of Transfer (PoX) Consensus         |https://www.youtube.com/watch?v=L6U2npZwv84&list=PLWRtq75xJMJqCwqkxLBcjEukYWKW32tb9&index=25|
 
 
 
