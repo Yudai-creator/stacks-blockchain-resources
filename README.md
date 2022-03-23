@@ -61,6 +61,7 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Contract Documentation Standard |https://github.com/stacksgov/sips/pull/32|
 | Clarity uses Polish notation |https://en.wikipedia.org/wiki/Polish_notation|
 | Clarinet Checker Checks |https://www.hiro.so/blog/new-safety-checks-in-clarinet|
+| Stacks Apps Authentication |https://docs.stacks.co/build-apps/references/authentication|
 
 
 ## Stacking process
