@@ -24,6 +24,7 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Clarity tools         |https://clarity.tools/|
 | Full Stack web3 dev with Stacks          |https://dev.to/krgrs/built-on-bitcoin-an-introduction-to-full-stack-web3-development-with-stacks-me9|
 | Proof of Transfer explained        |https://docs.stacks.co/understand-stacks/proof-of-transfer|
+| Stacks Improvement Proposals  |https://book.clarity-lang.org/ch10-00-stacks-improvement-proposals.html|
 
 
 ## About NFTs on Stacks
