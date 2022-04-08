@@ -37,6 +37,13 @@ An archive of valuable resources to learn about Stacks blockchain enviorment, an
 | Stacks (STX) NFTs: Exploring NFTs Secured By Bitcoin          |https://coincentral.com/stacks-stx-nft-guide/|
 
 
+## Github repos
+
+| Name          | Link|
+| ------------- | ------------- |
+| Explorer Guild NFTs           |https://github.com/sigle/the-explorer-guild/tree/main/contracts/contracts|
+| NFTs on Stacks, explained         |https://www.bitcoininsider.org/article/147035/nfts-stacks-explained|
+| NFTs on Stacks - Starter Info          |https://forum.stacks.org/t/nfts-on-stacks-starter-info/11872|
 
 ## Not check yet
 
